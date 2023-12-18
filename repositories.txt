@@ -1,3 +1,7 @@
+https://github.com/AsproCompany/AsproSolarShield
+https://github.com/handmade0octopus/ESP32-TWAI-CAN
+https://github.com/CoreX-IoT/corex-firmware
+https://github.com/Fourier-git/ADXL372
 https://github.com/tatemazer/AcaiaArduinoBLE
 https://github.com/littleBitsman/Asynchrony
 https://github.com/alireza7575/MKS_SERVO57
@@ -13,6 +17,8 @@ https://github.com/DefHam140/IOTClient
 https://github.com/hoeken/PsychicHttp
 https://github.com/dejwk/roo_collections
 https://github.com/dejwk/roo_display
+https://github.com/dejwk/roo_flags
+https://github.com/dejwk/roo_logging
 https://github.com/dejwk/roo_material_icons
 https://github.com/dejwk/roo_scheduler
 https://github.com/dejwk/roo_time
@@ -1787,6 +1793,7 @@ https://github.com/RobTillaart/I2CKeyPad8x8
 https://github.com/RobTillaart/I2C_24LC1025
 https://github.com/RobTillaart/I2C_ASDX
 https://github.com/RobTillaart/I2C_EEPROM
+https://github.com/RobTillaart/I2C_LCD
 https://github.com/RobTillaart/I2C_SCANNER
 https://github.com/RobTillaart/IEEE754tools
 https://github.com/RobTillaart/INA219
@@ -2246,6 +2253,7 @@ https://github.com/TheFidax/digitalPinFast
 https://github.com/TheJLifeX/ScrollingText8x8Display
 https://github.com/TheNitek/CatGFX
 https://github.com/TheNitek/NDEF
+https://github.com/TheNitek/XPT2046_Bitbang_Arduino_Library
 https://github.com/TheSpaceDragon/rdv-gy512
 https://github.com/TheThingsNetwork/arduino-device-lib
 https://github.com/TheThingsNetwork/arduino-node-lib
@@ -2578,6 +2586,7 @@ https://github.com/adafruit/Adafruit_PM25AQI
 https://github.com/adafruit/Adafruit_PixelDust
 https://github.com/adafruit/Adafruit_Pixie
 https://github.com/adafruit/Adafruit_Protomatter
+https://github.com/adafruit/Adafruit_PyCamera
 https://github.com/adafruit/Adafruit_RA8875
 https://github.com/adafruit/Adafruit_SCD30
 https://github.com/adafruit/Adafruit_SGP30
@@ -2674,6 +2683,8 @@ https://github.com/adafruit/arduino-CAN
 https://github.com/adafruit/Adafruit_Debounce
 https://github.com/adafruit/Adafruit_ADS7830
 https://github.com/adafruit/Adafruit_FT5336
+https://github.com/adafruit/Adafruit_MCP3421
+https://github.com/adafruit/Adafruit_xCA9554
 https://github.com/adameat/MaximWire
 https://github.com/ademuri/esp-simple-web-dashboard
 https://github.com/ademuri/smart-input-filter
@@ -5542,6 +5553,7 @@ https://github.com/sparkfun/SparkFun_ToF_Range_Finder-VL6180_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Arduino_Library
 https://github.com/sparkfun/SparkFun_TouchInput_Driver_FT5xx6
 https://github.com/sparkfun/SparkFun_Tsunami_Qwiic_Arduino_Library
+https://github.com/sparkfun/SparkFun_Unicore_GNSS_Arduino_Library
 https://github.com/sparkfun/SparkFun_USB251x_Arduino_Library
 https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library
 https://github.com/sparkfun/SparkFun_VCNL4040_Arduino_Library
@@ -6482,3 +6494,5 @@ https://github.com/m5stack/M5StickCPlus2
 https://github.com/he0119/arduino-miio
 https://github.com/m-shintaro/RTC_RX8025NB
 https://github.com/sh123/esp32_opus_arduino
+https://github.com/felias-fogg/FlexWire
+https://github.com/scheffield/sic45x-driver
